@@ -1,0 +1,59 @@
+<resources>
+    <!-- placeholders and templating -->
+    <string name="app_name">Credit Management</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="noAccount">Don\'t have an account yet?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="lastName">Last Name</string>
+    <string name="name">Name</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="agree">Agree</string>
+    <string name="aboutMe">About me</string>
+    <string name="monthlyIncome">Monthly income</string>
+    <string name="data">Data</string>
+    <string name="manageCreditCards">Manage credit cards</string>
+    <string name="dangerZone">Danger zone</string>
+    <string name="deleteData">Delete data</string>
+    <string name="noLikeIt">Didn\'t liked this app?</string>
+    <string name="receiveNotifications">Receive notifications</string>
+
+    <!-- messages -->
+    <string name="signinMessage">Signing in to my credit management application</string>
+    <string name="signupMessage">Signing up to my credit management application</string>
+    <string name="invalidEmailMessage">Email must be provided</string>
+    <string name="invalidPasswordMessage">Password must be provided</string>
+    <string name="invalidCredentialsMessage">Invalid credentials, try again</string>
+    <string name="invalidNameMessage">Name must be provided</string>
+    <string name="invalidLastNameMessage">Last name must be provided</string>
+    <string name="welcomeMessage">Welcome aboard</string>
+    <string name="unexpectedErrorMessage">There has been an unexpected error, try again</string>
+    <string name="responseIOExceptionMessage">Could not read server response, try again</string>
+    <string name="configurationFetchMessage">Fetching your settings with server</string>
+    <string name="firstTimeUsageSettingsMessage">NOTE: This applications is for personal use, the developer is trying to help (including him) get more organized with credit cards, payments, limits and more options that are going to be added. \nAll the data will be uploaded and saved to a cloud (Actually appengine server) to be available on each device running this application. \nWe agree this is personal info and will not be used for any other purpose rather giving the user an idea of how finances are going.</string>
+    <string name="dataSavingMessage">This data will be saved to the cloud as well to send notifications and send tips about payment dates, etc</string>
+    <string name="firstTimeUsageMessage">This is the first time you use this application, go to settings to get ready</string>
+    <string name="newCreditCardNameMessage">Assign a name to this credit card</string>
+    <string name="newCreditCardAnnualFeeMessage">If there is an annual fee, specify it</string>
+    <string name="newCreditCardAllowedSalaryMessage">Max allowed salary</string>
+    <string name="newCreditCardPeriodDateMessage">Period date</string>
+    <string name="newCreditCardMonthlyPeriodDateMessage">Monthly period date</string>
+    <string name="newCreditCardPayDateMessage">Pay date</string>
+    <string name="newCreditCardMonthlyPayDateMessage">Monthly pay date</string>
+    <string name="newCreditCardMessage">None of your debit card is required, this application only helps to get your business organized ;) Tap save to start analyzing this credit card</string>
+
+
+    <!-- config -->
+    <string name="sharedPreferencesName">com.albertoruvel.credit.app.util.SharedPreferences.name</string>
+    <string name="sharedPreferencesTokenName">com.albertoruvel.credit.app.util.SharedPreferences.token</string>
+    <string name="sharedPreferencesFirstTimeUser">com.albertoruvel.credit.app.util.SharedPreferences.firstTimeUser</string>
+    <string name="sharedPreferencesCurrentConfig">com.albertoruvel.credit.app.util.SharedPreferences.currentUserConfiguration</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
